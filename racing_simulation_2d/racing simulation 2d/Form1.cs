@@ -63,7 +63,7 @@ namespace racing_simulation_2d
         private void Render(Graphics g)
         {
             //clear back buffer
-            graphics.Clear(Color.Black);
+            graphics.Clear(Color.White);
             graphics.ResetTransform();
             graphics.ScaleTransform(screenScale, -screenScale);
             graphics.TranslateTransform(buffersize.Width / 2.0f / screenScale, -buffersize.Height / 2.0f / screenScale);

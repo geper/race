@@ -12,3 +12,12 @@ E:\Учеба\4-курс\Сема бутенко rasing\racing simulation 2d\rac
 E:\Учеба\4-курс\Сема бутенко rasing\racing simulation 2d\racing simulation 2d\obj\Debug\ResolveAssemblyReference.cache
 E:\Учеба\4-курс\Сема бутенко rasing\racing simulation 2d\racing simulation 2d\obj\Debug\racing_simulation_2d.frmMain.resources
 E:\Учеба\4-курс\Сема бутенко rasing\racing simulation 2d\racing simulation 2d\obj\Debug\racing_simulation_2d.Properties.Resources.resources
+C:\Users\ALEX\hello-word\race\racing_simulation_2d\racing simulation 2d\obj\Debug\racing simulation 2d.exe
+C:\Users\ALEX\hello-word\race\racing_simulation_2d\racing simulation 2d\obj\Debug\racing simulation 2d.pdb
+C:\Users\ALEX\hello-word\race\racing_simulation_2d\racing simulation 2d\bin\Debug\racing simulation 2d.exe
+C:\Users\ALEX\hello-word\race\racing_simulation_2d\racing simulation 2d\bin\Debug\racing simulation 2d.pdb
+C:\Users\ALEX\hello-word\race\racing_simulation_2d\racing simulation 2d\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ALEX\hello-word\race\racing_simulation_2d\racing simulation 2d\obj\Debug\racing_simulation_2d.frmMain.resources
+C:\Users\ALEX\hello-word\race\racing_simulation_2d\racing simulation 2d\obj\Debug\racing_simulation_2d.Properties.Resources.resources
+C:\Users\ALEX\hello-word\race\racing_simulation_2d\racing simulation 2d\obj\Debug\ResGen.read.1.tlog
+C:\Users\ALEX\hello-word\race\racing_simulation_2d\racing simulation 2d\obj\Debug\ResGen.write.1.tlog
