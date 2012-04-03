@@ -1,0 +1,14 @@
+E:\Downloads\Установщики и программы\racing simulation 2d\racing simulation 2d\racing simulation 2d\obj\Debug\racing simulation 2d.exe
+E:\Downloads\Установщики и программы\racing simulation 2d\racing simulation 2d\racing simulation 2d\obj\Debug\racing simulation 2d.pdb
+E:\Downloads\Установщики и программы\racing simulation 2d\racing simulation 2d\racing simulation 2d\bin\Debug\racing simulation 2d.exe
+E:\Downloads\Установщики и программы\racing simulation 2d\racing simulation 2d\racing simulation 2d\bin\Debug\racing simulation 2d.pdb
+E:\Downloads\Установщики и программы\racing simulation 2d\racing simulation 2d\racing simulation 2d\obj\Debug\ResolveAssemblyReference.cache
+E:\Downloads\Установщики и программы\racing simulation 2d\racing simulation 2d\racing simulation 2d\obj\Debug\racing_simulation_2d.frmMain.resources
+E:\Downloads\Установщики и программы\racing simulation 2d\racing simulation 2d\racing simulation 2d\obj\Debug\racing_simulation_2d.Properties.Resources.resources
+E:\Учеба\4-курс\Сема бутенко rasing\racing simulation 2d\racing simulation 2d\obj\Debug\racing simulation 2d.exe
+E:\Учеба\4-курс\Сема бутенко rasing\racing simulation 2d\racing simulation 2d\obj\Debug\racing simulation 2d.pdb
+E:\Учеба\4-курс\Сема бутенко rasing\racing simulation 2d\racing simulation 2d\bin\Debug\racing simulation 2d.exe
+E:\Учеба\4-курс\Сема бутенко rasing\racing simulation 2d\racing simulation 2d\bin\Debug\racing simulation 2d.pdb
+E:\Учеба\4-курс\Сема бутенко rasing\racing simulation 2d\racing simulation 2d\obj\Debug\ResolveAssemblyReference.cache
+E:\Учеба\4-курс\Сема бутенко rasing\racing simulation 2d\racing simulation 2d\obj\Debug\racing_simulation_2d.frmMain.resources
+E:\Учеба\4-курс\Сема бутенко rasing\racing simulation 2d\racing simulation 2d\obj\Debug\racing_simulation_2d.Properties.Resources.resources

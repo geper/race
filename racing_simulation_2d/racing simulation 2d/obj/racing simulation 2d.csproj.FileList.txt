@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\racing_simulation_2d.frmMain.resources
+obj\Debug\racing_simulation_2d.Properties.Resources.resources
+obj\Debug\racing simulation 2d.csproj.GenerateResource.Cache
+bin\Debug\racing simulation 2d.exe
+bin\Debug\racing simulation 2d.pdb
+obj\Debug\racing simulation 2d.exe
+obj\Debug\racing simulation 2d.pdb
